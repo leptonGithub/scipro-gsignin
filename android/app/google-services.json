@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930897466248",
+    "project_id": "scipro-final",
+    "storage_bucket": "scipro-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930897466248:android:a39ae4699128d9d7b3203d",
+        "android_client_info": {
+          "package_name": "com.leptoncommunications.scipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930897466248-vl95kmh5g12vfdde6rkn811tk159pvf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leptoncommunications.scipro",
+            "certificate_hash": "fd8e0095ca9ed01a5d4b1ab00e6d166919a230e3"
+          }
+        },
+        {
+          "client_id": "930897466248-u59hc84jh1t7uvttqojjdkqkrbones32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHvMnyWyjmm-3ibNZ7Q_9PtPUxrVSKZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930897466248-ajju0qjjlq9h4iigqgc3v6f7e6esh64v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
